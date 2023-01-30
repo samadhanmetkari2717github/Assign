@@ -10,5 +10,5 @@ public class Student {
 	public static Student getDetails() {
 		return st;
 		
-	}
+	}// hiii team how r u.....
 }
